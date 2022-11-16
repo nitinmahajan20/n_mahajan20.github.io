@@ -76,9 +76,7 @@ This project ran a exploratory data analysis (EDA) using Python for the UCR Part
 
 Data have Crimes include homicide/non-negligent manslaughter, rape, robbery, aggravated assault, burglary, larceny, motor vehicle theft, arson, and human trafficking.
 
-For further details and to download the data please check the follwoing Link:
-
-https://data-stlcogis.opendata.arcgis.com/datasets/2017-st-louis-county-police-department-ucr-part-1-crime-data https://data-stlcogis.opendata.arcgis.com/datasets/2018-ucr-part-1-crimes
+For further details and to download the data please click the [Link](https://data-stlcogis.opendata.arcgis.com/datasets/2017-st-louis-county-police-department-ucr-part-1-crime-data https://data-stlcogis.opendata.arcgis.com/datasets/2018-ucr-part-1-crimes)
 
 ### [Project 10 - Building Weather App](https://github.com/nitinmahajan20/Weather_App_Python)
 
