@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fun Fact about DNA"
-subtitle: " "
+subtitle: "DNA"
 background: ""
 ---
 
