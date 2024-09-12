@@ -15,4 +15,4 @@ Here is the Google Scholar Link for all the articles published in peer-reviewed 
 1. **Receptor for advanced glycation end products (RAGE) in vascular and inflammatory diseases**  
    _Nitin Mahajan, Veena Dhawan_  
    Published in: _International journal of cardiology_, 2013, 168(3), 1788-1794  
-   [https://www.sciencedirect.com/science/article/abs/pii/S0167527313009224](#)
+   [Read full text on ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0167527313009224)
