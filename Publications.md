@@ -1,12 +1,18 @@
 ---
 layout: page
 title: Publications
-description: Peer Reviewed Publication
-
+description: Peer Reviewed Publications
 ---
 
 ### [Google Scholar](https://scholar.google.com/citations?user=14IH5HsAAAAJ&hl=en)
 
-Here is the Google Scholar Link for all the articles published in peer reviewed scientific journal. 
+Here is the Google Scholar Link for all the articles published in peer-reviewed scientific journals.
 
-I have attached the full text of the article. 
+---
+
+### Publications
+
+1. **Receptor for advanced glycation end products (RAGE) in vascular and inflammatory diseases**  
+   _Nitin Mahajan, Veena Dhawan_  
+   Published in: _International journal of cardiology_, 2013, 168(3), 1788-1794  
+   [https://www.sciencedirect.com/science/article/abs/pii/S0167527313009224](#)
