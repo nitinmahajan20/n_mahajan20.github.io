@@ -41,7 +41,7 @@ Here is the [Google Scholar Link](https://scholar.google.com/citations?user=14IH
    Published in: _Tumor Biology_, 2016, 37(11), 14335–14340  
    [Read full text (PDF)](/assets/pdf/TB_2016.pdf)
 
-6. **[Collaborative control of cell cycle progression by the RNA exonuclease Dis3 and Ras is conserved across species](https://www.sciencedirect.com/science/article/pii/S0301472X15007432)**  
+6. **[Collaborative control of cell cycle progression by the RNA exonuclease Dis3 and Ras is conserved across species](https://academic.oup.com/genetics/article/203/2/749/6066242)**  
    _Snee MJ, Wilson WC, Zhu Y, Chen SY, Wilson BA, Kseib C, O’Neal J, **Mahajan N**, et al_  
    Published in: _Genetics_, 2016, 203(2), 749-762  
    [Read full text (PDF)](/assets/pdf/Genetics_2016.pdf)
