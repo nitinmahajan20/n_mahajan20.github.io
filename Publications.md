@@ -13,17 +13,17 @@ Here is the [Google Scholar Link](https://scholar.google.com/citations?user=14IH
 ### Publications
 
 1. **Review Article:**
-   **[Acknowledged Signatures of Matrix Metalloproteinases in Takayasu’s Arteritis](https://onlinelibrary.wiley.com/doi/full/10.1155/2014/827105)**
+   **[Acknowledged Signatures of Matrix Metalloproteinases in Takayasu’s Arteritis](https://onlinelibrary.wiley.com/doi/full/10.1155/2014/827105)**  
    _Wu G, **Mahajan N**, et al_  
    Published in: _BioMedical Research International_, 2014, 1-8  
    [Read full text (PDF)](/assets/pdf/BMRI_2014.pdf)
 
-2. **[Implication of Endothelin-2 and Oxidative Stress Biomarkers in Essential Hypertension](https://d1wqtxts1xzle7.cloudfront.net/46410682/Implication_of_Endothelin-2_and_Oxidativ20160611-21951-1gxr28x-libre.pdf?1465712279=&response-content-disposition=inline%3B+filename%3DImplication_of_Endothelin_2_and_Oxidativ.pdf&Expires=1726597846&Signature=KQKKJC6fc4p9sl5pntMTfb64LNT4imtaxfCWJJlFquEyjQJvP8V4HjI5Ll403ho~a1mJYFbUQc2Dvq~m0s6dmXmhQ25pdPojmA8HcC45ZrZBKkbULjsA84F1OHvhfVtiA4j8zTB2Z1NUETMvCRp2msCDbIe3TU2AIgsAWV1gaTKfgqqJuImFnzsfPyn0iQZq8EezKiVF5mNhYdfxktOcDalHqEzOHPnFV7woJ4bgcakYGYUGCdEruTtS0VMjso01hB-UfU9OHHVY0tXZUl3oB9KwqlI4K6MzLzgWFV3U~y5GuqNc97Wsp1DfVs6avL-ij00ehQdy7F2BFAjCtYX-Ug__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)**
+2. **[Implication of Endothelin-2 and Oxidative Stress Biomarkers in Essential Hypertension](https://d1wqtxts1xzle7.cloudfront.net/46410682/Implication_of_Endothelin-2_and_Oxidativ20160611-21951-1gxr28x-libre.pdf?1465712279=&response-content-disposition=inline%3B+filename%3DImplication_of_Endothelin_2_and_Oxidativ.pdf&Expires=1726597846&Signature=KQKKJC6fc4p9sl5pntMTfb64LNT4imtaxfCWJJlFquEyjQJvP8V4HjI5Ll403ho~a1mJYFbUQc2Dvq~m0s6dmXmhQ25pdPojmA8HcC45ZrZBKkbULjsA84F1OHvhfVtiA4j8zTB2Z1NUETMvCRp2msCDbIe3TU2AIgsAWV1gaTKfgqqJuImFnzsfPyn0iQZq8EezKiVF5mNhYdfxktOcDalHqEzOHPnFV7woJ4bgcakYGYUGCdEruTtS0VMjso01hB-UfU9OHHVY0tXZUl3oB9KwqlI4K6MzLzgWFV3U~y5GuqNc97Wsp1DfVs6avL-ij00ehQdy7F2BFAjCtYX-Ug__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)**  
    _Dhawan V, Sharma I, **Mahajan N**, et al_  
    Published in: _J Hypertension_, 2014, 3(5), 3-5  
    [Read full text (PDF)](/assets/pdf/JHOA_2014.pdf)
 
-3. **[Levels of Interleukin‐18 and Endothelin‐1 in Children with Henoch‐Schönlein Purpura: A Study from Northern India](https://onlinelibrary.wiley.com/doi/abs/10.1111/pde.12222)**
+3. **[Levels of Interleukin‐18 and Endothelin‐1 in Children with Henoch‐Schönlein Purpura: A Study from Northern India](https://onlinelibrary.wiley.com/doi/abs/10.1111/pde.12222)**  
    _**Mahajan N**, et al_  
    Published in: _Pediatric Dermatology_, 2013, 30(6), 695-699  
    [Read full text (PDF)](/assets/pdf/PD_2013.pdf)
@@ -39,32 +39,32 @@ Here is the [Google Scholar Link](https://scholar.google.com/citations?user=14IH
    Published in: _Journal of Biological Chemistry_, 2013, 288(16), 11611-11620
    [Read full text (PDF)](/assets/pdf/JBC_Maspin_ROS.pdf)
 
-6. **[Receptor for advanced glycation end products (RAGE) in atrial fibrillation](https://www.internationaljournalofcardiology.com/article/S0167-5273(13)01422-8/abstract)** 
+6. **[Receptor for advanced glycation end products (RAGE) in atrial fibrillation](https://www.internationaljournalofcardiology.com/article/S0167-5273(13)01422-8/abstract)**  
    _**Mahajan N**, et. al_  
    Published in: _International Journal of Cardiology_, 2013, 168(5), 5072-5073
    [Read full text (PDF)](/assets/pdf/IJC_2013_7.pdf)
 
-7. **[Epigenetic modifications of prostate-derived Ets transcription factor in breast cancer cells](https://www.spandidos-publications.com/or/30/4/1985)** 
+7. **[Epigenetic modifications of prostate-derived Ets transcription factor in breast cancer cells](https://www.spandidos-publications.com/or/30/4/1985)**  
    _Sabherwal S, **Mahajan N**, et. al_  
    Published in: _Oncology Reports_, 2013, 30(4), 1985-1988
    [Read full text (PDF)](/assets/pdf/OncRep_2013.pdf)
 
-8. **[Receptor for advanced glycation end products (RAGE), inflammatory ligand EN-RAGE and soluble RAGE (sRAGE) in subjects with Takayasu's arteritis](https://www.internationaljournalofcardiology.com/article/S0167-5273(13)00017-X/abstract)** 
+8. **[Receptor for advanced glycation end products (RAGE), inflammatory ligand EN-RAGE and soluble RAGE (sRAGE) in subjects with Takayasu's arteritis](https://www.internationaljournalofcardiology.com/article/S0167-5273(13)00017-X/abstract)**  
    _**Mahajan N**, et. al_  
    Published in: _International Journal of Cardiology_, 2013, 168(1), 532-534
    [Read full text (PDF)](/assets/pdf/IJC_2013_6.pdf)
 
-9. **[Extracellular Matrix Remodeling in Takayasu's Arteritis: Role of Matrix Metalloproteinases and Adventitial Inflammation](https://www.sciencedirect.com/science/article/abs/pii/S0188440912002019)** 
+9. **[Extracellular Matrix Remodeling in Takayasu's Arteritis: Role of Matrix Metalloproteinases and Adventitial Inflammation](https://www.sciencedirect.com/science/article/abs/pii/S0188440912002019)**  
    _**Mahajan N**, et. al_  
    Published in: _Archives of Medical Research_, 2012, 43(5), 406-410
    [Read full text (PDF)](/assets/pdf/AMR_2012.pdf)
 
-10. **[Potential biomarkers for disease activity in Takayasu's arteritis](https://www.internationaljournalofcardiology.com/article/S0167-5273(12)00571-2/abstract)** 
+10. **[Potential biomarkers for disease activity in Takayasu's arteritis](https://www.internationaljournalofcardiology.com/article/S0167-5273(12)00571-2/abstract)**  
    _**Mahajan N**, et. al_  
    Published in: _International Journal of Cardiology_, 2012, 158(2), 331
    [Read full text (PDF)](/assets/pdf/IJC_2012_5.pdf)
 
-11. **[PDEF downregulates stathmin expression in prostate cancer](https://www.spandidos-publications.com/ijo/40/6/1889)**
+11. **[PDEF downregulates stathmin expression in prostate cancer](https://www.spandidos-publications.com/ijo/40/6/1889)**  
    _Sabherwal S, **Mahajan N**, et. al_  
    Published in: _International Journal of Oncology_, 2012, 40, 1889_1899
    [Read full text (PDF)](/assets/pdf/IJOncology_2010.pdf)
