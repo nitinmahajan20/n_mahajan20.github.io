@@ -15,7 +15,7 @@ Here is the [Google Scholar Link](https://scholar.google.com/citations?user=14IH
 1. **[Clonal hematopoiesis in clinical and experimental heart failure with preserved ejection fraction](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.064170)**   
    _Cochran JC, Yura Y, ..... **Mahajan N**, et al_  
    Published in: _Circulation_, 2023, 148(15), 1165-1178  
-   [Read full text (PDF)](/assets/pdf/Circulation_2023.pdf)
+   [Read full text (PDF)](/assets/pdf/Citculation_2023.pdf)
 2. **[C10Pred: A First Machine Learning Based Tool to Predict C10 Family Cysteine Peptidases Using Sequence-Derived Features](https://www.mdpi.com/1422-0067/23/17/9518)**   
    _Malik A, **Mahajan N**, et al_  
    Published in: _Int J Mol Sci_, 2022, 23(17)  
