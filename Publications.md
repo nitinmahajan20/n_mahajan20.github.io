@@ -12,8 +12,7 @@ Here is the [Google Scholar Link](https://scholar.google.com/citations?user=14IH
 
 ### Publications
 
-1. **[GPpred: A Novel Sequence-Based Tool for Predicting Glutamic Proteases Using Optimized Hybrid Encodings]
-(https://www.mdpi.com/2073-4344/14/12/894)**   
+1. **[GPpred: A Novel Sequence-Based Tool for Predicting Glutamic Proteases Using Optimized Hybrid Encodings](https://www.mdpi.com/2073-4344/14/12/894)**   
    _Firoz A, Malik A, **Mahajan N**, et al_  
    Published in: _Catalysts_, 2024, 14(12), 894  
    [Read full text (PDF)](/assets/pdf/Catalysts_GPred.pdf)
